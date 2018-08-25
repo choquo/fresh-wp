@@ -17,7 +17,7 @@ Task automator for new Wordpress installations, install all your Wordpress plugi
 ![](https://develus.com/share/fresh/fresh-setup-theme.png)
 3. Add the list of plugins that you want to install automatically on the file `fresh-plugins.php`
 ![](https://develus.com/share/fresh/fresh-setup-plugins.png)
-4. Upload the three `fresh-*` files to your server where your WP installation is located usually on /public_html
+4. Upload the 3 `fresh-*` files to your server where your WP installation is located usually on /public_html
 5. Open your browser and navigate to your Wordpress installation like this `http://mydomain/fresh.php`
 6. Customize the content of the textareas `wp-config` and `functions` this code will be added to your theme be sure that your theme have a functions.php file on your theme.
 

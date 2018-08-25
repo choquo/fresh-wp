@@ -3,7 +3,6 @@
  * Fresh WP
  * Author: Carlos Maldonado (@choquo)
  * https://github.com/choquo/fresh-wp
- * License: MIT
  */
 
 include_once 'fresh-plugins.php';
