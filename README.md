@@ -6,7 +6,7 @@ Task automator for new Wordpress installations, install all your Wordpress plugi
 
 - One single click to install all your plugins and main theme of your next project
 - Require only 3 files
-- You don't need download anything, get everything from the WP repository
+- You don't need download anything, get everything from the WP repository or your own server (for your premium plugins)
 
 ![](https://develus.com/share/fresh/fresh-preview.jpg)
 
