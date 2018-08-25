@@ -27,6 +27,10 @@ Task automator for new Wordpress installations, install all your Wordpress plugi
 
 You must wait for complete installation, once you click the button you must wait until all the tasks be finished.
 
+**⭐ Installing Premium Plugins**
+
+If you have premium plugins and you want to add it to the list just upload your zipped plugin to your own server and add the URL to `fresh-plugins.php` file.
+
 ![](https://develus.com/share/fresh/fresh-wait-installing.png)
 
 ### Successful installation
