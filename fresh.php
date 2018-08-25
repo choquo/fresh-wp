@@ -87,6 +87,7 @@ if( isset($_POST['go']) ){
         /* Extract Zip File */
         $zip->extractTo($extractPath);
         $zip->close();
+        fclose($zipResource);
         unlink( $zipFile );
     }
 }
@@ -131,6 +132,7 @@ if( isset($_POST['go']) ){
     /* Extract Zip File */
     $zip->extractTo($extractPath);
     $zip->close();
+    fclose($zipResource);
     unlink( $zipFile );
 }
 ?>
