@@ -2,6 +2,13 @@
 
 Task automator for new Wordpress installations, install all your Wordpress plugins and main theme with one single click.
 
+**Main features**
+
+- Easy to configure
+- One single click to install
+- Require only 3 files
+- You don't need to download anything get everything from the WP repository
+
 ![](https://develus.com/share/fresh/fresh-preview.jpg)
 
 ### How to use
@@ -25,7 +32,7 @@ You must wait for complete installation, once you click the button you must wait
 
 ### Successful installation
 
-Once installed you should see this screen
+Once installed you should see this screen. Don't forget to delete all the fresh-* files from your server, that's all.
 
 ![](https://develus.com/share/fresh/fresh-finished.png)
 

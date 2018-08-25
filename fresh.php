@@ -440,5 +440,13 @@ add_action('after_setup_theme', 'wp_editable_areas_setup');
 
     <?php } ?>
 
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center mt-4">
+                <p><small>Created by <a target="_blank" href="https://github.com/choquo">Carlos Maldonado (<?php echo date("Y"); ?>)</a> | <a target="_blank" href="https://github.com/choquo/fresh-wp">Download on Github</a></small></p>
+            </div>
+        </div>
+    </div>
+
 </body>
 </html>
