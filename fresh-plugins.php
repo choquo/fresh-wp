@@ -13,6 +13,10 @@ $plugins = array(
         "name"=>"Elementor",
         "link"=>"https://downloads.wordpress.org/plugin/elementor.2.1.5.zip" 
     ),
+    array( 
+        "name"=>"PODS",
+        "link"=>"https://downloads.wordpress.org/plugin/pods.2.7.9.zip" 
+    ),
     array(
         "name"=>"TinyPNG",       
         "link"=>"https://downloads.wordpress.org/plugin/tiny-compress-images.3.0.0.zip" 
