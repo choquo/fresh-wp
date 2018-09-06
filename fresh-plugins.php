@@ -14,6 +14,10 @@ $plugins = array(
         "link"=>"https://downloads.wordpress.org/plugin/elementor.2.1.5.zip" 
     ),
     array( 
+        "name"=>"Elements by Envato",
+        "link"=>"https://downloads.wordpress.org/plugin/envato-elements.0.0.8.zip"
+    ),
+    array( 
         "name"=>"PODS",
         "link"=>"https://downloads.wordpress.org/plugin/pods.2.7.9.zip" 
     ),
