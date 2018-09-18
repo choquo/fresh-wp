@@ -17,6 +17,14 @@ $plugins = array(
         "name"=>"Elements by Envato",
         "link"=>"https://downloads.wordpress.org/plugin/envato-elements.0.0.8.zip"
     ),
+    array(
+        "name"=>"Faker Press",
+        "link"=>"https://downloads.wordpress.org/plugin/fakerpress.zip"
+    ),
+    array(
+        "name"=>"Simple Sitemap",
+        "link"=>"https://downloads.wordpress.org/plugin/simple-sitemap.2.5.zip"
+    ),
     array( 
         "name"=>"PODS",
         "link"=>"https://downloads.wordpress.org/plugin/pods.2.7.9.zip" 
