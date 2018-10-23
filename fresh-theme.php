@@ -8,6 +8,8 @@
 
  //IMPORTANT: You must use the theme FOLDER name
 $theme = array(
-    "theme_folder_name"=>"nucleora",
-    "link"=>"https://develus.com/share/wordpress/themes/nucleora.zip"
+    //"theme_folder_name"=>"nucleora",
+    //"link"=>"https://develus.com/share/wordpress/themes/nucleora.zip"
+    "theme_folder_name"=>"astra",
+    "link"=>"https://downloads.wordpress.org/theme/astra.1.5.3.zip"
 );

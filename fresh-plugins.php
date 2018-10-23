@@ -18,6 +18,14 @@ $plugins = array(
         "link"=>"https://downloads.wordpress.org/plugin/envato-elements.0.0.8.zip"
     ),
     array(
+        "name"=>"Add Admin CSS",
+        "link"=>"https://downloads.wordpress.org/plugin/add-admin-css.1.6.zip"
+    ),
+    array(
+        "name"=>"Lenix Elementor Leads Addon",
+        "link"=>"https://downloads.wordpress.org/plugin/lenix-elementor-leads-addon.zip"
+    ),
+    array(
         "name"=>"Faker Press",
         "link"=>"https://downloads.wordpress.org/plugin/fakerpress.zip"
     ),
