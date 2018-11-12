@@ -9,6 +9,10 @@
  */
 
 $plugins = array(
+    array(
+        "name"=>"Add from Server (Media Library Importer)",
+        "link"=>"https://downloads.wordpress.org/plugin/add-from-server.3.3.3.zip"
+    ),
     array( 
         "name"=>"Elementor",
         "link"=>"https://downloads.wordpress.org/plugin/elementor.2.1.5.zip" 
