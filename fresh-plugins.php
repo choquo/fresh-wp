@@ -10,8 +10,8 @@
 
 $plugins = array(
     array(
-        "name"=>"Add from Server (Media Library Importer)",
-        "link"=>"https://downloads.wordpress.org/plugin/add-from-server.3.3.3.zip"
+        "name"=>"WordPress Media Library Folders (Media Library Importer Sync)",
+        "link"=>"https://downloads.wordpress.org/plugin/media-library-plus.4.3.1.zip"
     ),
     array( 
         "name"=>"Elementor",
