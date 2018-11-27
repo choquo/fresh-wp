@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Simple 301 Redirects",
+        "link"=>"https://downloads.wordpress.org/plugin/simple-301-redirects.1.07.zip"
+    ),
+    array(
         "name"=>"WordPress Media Library Folders (Media Library Importer Sync)",
         "link"=>"https://downloads.wordpress.org/plugin/media-library-plus.4.3.1.zip"
     ),
