@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"GDPR Compliance Cookies",
+        "link"=>"https://downloads.wordpress.org/plugin/wp-gdpr-compliance.1.4.5.zip"
+    ),
+    array(
         "name"=>"Simple 301 Redirects",
         "link"=>"https://downloads.wordpress.org/plugin/simple-301-redirects.1.07.zip"
     ),
