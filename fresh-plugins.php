@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"WP Super Cache",
+        "link"=>"https://downloads.wordpress.org/plugin/wp-super-cache.1.6.4.zip"
+    ),
+    array(
         "name"=>"GDPR Compliance Cookies",
         "link"=>"https://downloads.wordpress.org/plugin/wp-gdpr-compliance.1.4.5.zip"
     ),
