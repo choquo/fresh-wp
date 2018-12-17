@@ -10,7 +10,7 @@
 
 $plugins = array(
     array(
-        "name"=>"FitVid Video Responsive Wordpress",
+        "name"=>"FitVids for WordPress - Video Responsive for Youtube and Vimeo",
         "link"=>"https://downloads.wordpress.org/plugin/fitvids-for-wordpress.3.0.4.zip"
     ),
     array(
