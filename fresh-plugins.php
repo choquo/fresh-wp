@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"FitVid Video Responsive Wordpress",
+        "link"=>"https://downloads.wordpress.org/plugin/fitvids-for-wordpress.3.0.4.zip"
+    ),
+    array(
         "name"=>"WP Super Cache",
         "link"=>"https://downloads.wordpress.org/plugin/wp-super-cache.1.6.4.zip"
     ),
