@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Admin Taxonomy Filter",
+        "link"=>"https://downloads.wordpress.org/plugin/admin-taxonomy-filter.1.0.zip"
+    ),
+    array(
         "name"=>"FitVids for WordPress - Video Responsive for Youtube and Vimeo",
         "link"=>"https://downloads.wordpress.org/plugin/fitvids-for-wordpress.3.0.4.zip"
     ),
