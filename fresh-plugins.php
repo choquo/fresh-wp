@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"MouseWheel Smooth Scroll",
+        "link"=>"https://downloads.wordpress.org/plugin/mousewheel-smooth-scroll.5.0.zip"
+    ),
+    array(
         "name"=>"Admin Taxonomy Filter",
         "link"=>"https://downloads.wordpress.org/plugin/admin-taxonomy-filter.1.0.zip"
     ),
