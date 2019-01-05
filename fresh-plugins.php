@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Password Protected",
+        "link"=>"https://downloads.wordpress.org/plugin/password-protected.2.2.2.zip"
+    ),
+    array(
         "name"=>"MouseWheel Smooth Scroll",
         "link"=>"https://downloads.wordpress.org/plugin/mousewheel-smooth-scroll.5.0.zip"
     ),
