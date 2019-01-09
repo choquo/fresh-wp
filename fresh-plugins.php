@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Activity Log",
+        "link"=>"https://downloads.wordpress.org/plugin/aryo-activity-log.2.5.2.zip"
+    ),
+    array(
         "name"=>"Admin Menu Editor (Reorder Dashboard Menu Items)",
         "link"=>"https://downloads.wordpress.org/plugin/admin-menu-editor.1.8.5.zip"
     ),
