@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Admin Menu Editor (Reorder Dashboard Menu Items)",
+        "link"=>"https://downloads.wordpress.org/plugin/admin-menu-editor.1.8.5.zip"
+    ),
+    array(
         "name"=>"Elementor Custom Skin (design your own skins for the 'posts widget' of elementor pro)",
         "link"=>"https://downloads.wordpress.org/plugin/ele-custom-skin.zip"
     ),
