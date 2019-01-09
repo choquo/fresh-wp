@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Elementor Custom Skin (design your own skins for the 'posts widget' of elementor pro)",
+        "link"=>"https://downloads.wordpress.org/plugin/ele-custom-skin.zip"
+    ),
+    array(
         "name"=>"Password Protected",
         "link"=>"https://downloads.wordpress.org/plugin/password-protected.2.2.2.zip"
     ),
