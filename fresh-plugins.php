@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Make Column Clickable Elementor",
+        "link"=>"https://downloads.wordpress.org/plugin/make-column-clickable-elementor.zip"
+    ),
+    array(
         "name"=>"Activity Log",
         "link"=>"https://downloads.wordpress.org/plugin/aryo-activity-log.2.5.2.zip"
     ),
