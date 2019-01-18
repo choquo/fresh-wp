@@ -10,6 +10,22 @@
 
 $plugins = array(
     array(
+        "name"=>"Advanced Custom Fields (to add fields to Custom Post Types, Custom Taxonomies, etc.)",
+        "link"=>"https://downloads.wordpress.org/plugin/advanced-custom-fields.5.7.10.zip"
+    ),
+    array(
+        "name"=>"CPT UI (Custom Post Types, Custom Taxonomies, etc.)",
+        "link"=>"https://downloads.wordpress.org/plugin/custom-post-type-ui.1.6.1.zip"
+    ),
+    array(
+        "name"=>"Capability Manager Enhanced",
+        "link"=>"https://downloads.wordpress.org/plugin/capability-manager-enhanced.zip"
+    ),
+    array(
+        "name"=>"WP Security Audit Log",
+        "link"=>"https://downloads.wordpress.org/plugin/wp-security-audit-log.3.3.0.2.zip"
+    ),
+    array(
         "name"=>"Make Column Clickable Elementor",
         "link"=>"https://downloads.wordpress.org/plugin/make-column-clickable-elementor.zip"
     ),
@@ -80,10 +96,6 @@ $plugins = array(
     array(
         "name"=>"Simple Sitemap",
         "link"=>"https://downloads.wordpress.org/plugin/simple-sitemap.2.5.zip"
-    ),
-    array( 
-        "name"=>"PODS",
-        "link"=>"https://downloads.wordpress.org/plugin/pods.2.7.9.zip" 
     ),
     array(
         "name"=>"TinyPNG",       
