@@ -130,7 +130,7 @@ $plugins = array(
         "link"=>"https://downloads.wordpress.org/plugin/really-simple-ssl.3.0.5.zip" 
     ),
     array( 
-        "name"=>"Under Construction",
+        "name"=>"Under Construction (Coming soon)",
         "link"=>"https://downloads.wordpress.org/plugin/under-construction-page.3.10.zip"
     )
 );
