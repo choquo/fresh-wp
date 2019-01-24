@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Clean Image Filenames (fix special chars when upload files to media library)",
+        "link"=>"https://downloads.wordpress.org/plugin/clean-image-filenames.1.2.1.zip"
+    ),
+    array(
         "name"=>"Advanced Custom Fields (to add fields to Custom Post Types, Custom Taxonomies, etc.)",
         "link"=>"https://downloads.wordpress.org/plugin/advanced-custom-fields.5.7.10.zip"
     ),
