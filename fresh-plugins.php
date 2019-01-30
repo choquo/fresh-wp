@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Page and Post Clone (clonar y duplicar posts o paginas)",
+        "link"=>"https://downloads.wordpress.org/plugin/page-or-post-clone.zip"
+    ),
+    array(
         "name"=>"Clean Image Filenames (fix special chars when upload files to media library)",
         "link"=>"https://downloads.wordpress.org/plugin/clean-image-filenames.1.2.1.zip"
     ),
