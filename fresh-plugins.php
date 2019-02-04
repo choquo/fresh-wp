@@ -134,7 +134,7 @@ $plugins = array(
         "link"=>"https://downloads.wordpress.org/plugin/wps-hide-login.1.4.3.zip" 
     ),
     array( 
-        "name"=>"WP Nested Pages",       
+        "name"=>"WP Nested Pages (sort and nest pages)",       
         "link"=>"https://downloads.wordpress.org/plugin/wp-nested-pages.3.0.6.zip" 
     ),
     array( 
