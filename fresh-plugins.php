@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Admin Columns (agrega por ejemplo un campo para la imagen destacada en la lista de posts del dashboard en otra columna)",
+        "link"=>"https://downloads.wordpress.org/plugin/codepress-admin-columns.3.3.1.zip"
+    ),
+    array(
         "name"=>"Page and Post Clone (clonar y duplicar posts o paginas)",
         "link"=>"https://downloads.wordpress.org/plugin/page-or-post-clone.zip"
     ),
@@ -34,7 +38,7 @@ $plugins = array(
         "link"=>"https://downloads.wordpress.org/plugin/wp-security-audit-log.3.3.0.2.zip"
     ),
     array(
-        "name"=>"Make Column Clickable Elementor",
+        "name"=>"Make Column Clickable Elementor (Column as link)",
         "link"=>"https://downloads.wordpress.org/plugin/make-column-clickable-elementor.zip"
     ),
     array(
@@ -88,6 +92,10 @@ $plugins = array(
     array( 
         "name"=>"Elements by Envato",
         "link"=>"https://downloads.wordpress.org/plugin/envato-elements.0.0.8.zip"
+    ),
+    array(
+        "name"=>"Add Admin JavaScript",
+        "link"=>"https://downloads.wordpress.org/plugin/add-admin-javascript.1.6.zip"
     ),
     array(
         "name"=>"Add Admin CSS",
