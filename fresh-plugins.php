@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Dynamic Conditions (for elementor)",
+        "link"=>"https://downloads.wordpress.org/plugin/dynamicconditions.zip"
+    ),
+    array(
         "name"=>"Admin Columns (agrega por ejemplo un campo para la imagen destacada en la lista de posts del dashboard en otra columna)",
         "link"=>"https://downloads.wordpress.org/plugin/codepress-admin-columns.3.3.1.zip"
     ),
