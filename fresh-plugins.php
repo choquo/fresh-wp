@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Custom Post Limits (especifica la cantidad de resultados por pagina en un CPT)",
+        "link"=>"https://downloads.wordpress.org/plugin/custom-post-limits.zip"
+    ),
+    array(
         "name"=>"Dynamic Conditions (for elementor)",
         "link"=>"https://downloads.wordpress.org/plugin/dynamicconditions.zip"
     ),
