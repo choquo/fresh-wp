@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"weDocs – the documentation plugin",
+        "link"=>"https://downloads.wordpress.org/plugin/wedocs.1.4.1.zip"
+    ),
+    array(
         "name"=>"Select All Categories and Taxonomies, Change Checkbox to Radio Buttons",
         "link"=>"https://downloads.wordpress.org/plugin/select-all-categories-and-taxonomies-change-checkbox-to-radio-buttons.zip"
     ),
