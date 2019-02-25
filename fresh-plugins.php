@@ -10,6 +10,10 @@
 
 $plugins = array(
     array(
+        "name"=>"Select All Categories and Taxonomies, Change Checkbox to Radio Buttons",
+        "link"=>"https://downloads.wordpress.org/plugin/select-all-categories-and-taxonomies-change-checkbox-to-radio-buttons.zip"
+    ),
+    array(
         "name"=>"Custom Post Limits (especifica la cantidad de resultados por pagina en un CPT)",
         "link"=>"https://downloads.wordpress.org/plugin/custom-post-limits.zip"
     ),
