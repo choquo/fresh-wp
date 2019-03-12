@@ -10,7 +10,7 @@
 
 $plugins = array(
     array(
-        "name"=>"Whippet - Removes unnecessary features from WordPress to increase speed.",
+        "name"=>"Whippet - Removes unnecessary features from WordPress to increase speed",
         "link"=>"https://downloads.wordpress.org/plugin/whippet.1.0.1.zip"
     ),
     array(
