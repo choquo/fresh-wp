@@ -10,8 +10,12 @@
 
 $plugins = array(
     array(
-        "name"=>"Whippet - Removes unnecessary features from WordPress to increase speed",
-        "link"=>"https://downloads.wordpress.org/plugin/whippet.1.0.1.zip"
+        "name"=>"Fast Velocity Minify (Minify HTML, CSS and JS and join in single file as much as possible)",
+        "link"=>"https://downloads.wordpress.org/plugin/fast-velocity-minify.2.6.0.zip"
+    ),
+    array(
+        "name"=>"reSmush.it Image Optimizer",
+        "link"=>"https://downloads.wordpress.org/plugin/resmushit-image-optimizer.0.1.22.zip"
     ),
     array(
         "name"=>"weDocs – the documentation plugin",
